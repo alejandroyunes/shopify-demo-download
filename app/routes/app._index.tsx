@@ -10,7 +10,7 @@ type Props = {};
 const Index = (props: Props) => {
   return (
     <Page>
-      <ui-title-bar title="Bulky operations"></ui-title-bar>
+      <ui-title-bar title="Download Bulky operations"></ui-title-bar>
       <Layout>
         <Layout.Section>
           <Card>
